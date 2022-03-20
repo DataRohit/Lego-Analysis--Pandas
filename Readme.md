@@ -4,7 +4,17 @@
 <h3>Setup</h3>
 <p>
 1. Python should be installed correctly (Python 3.5+ recommended)<br/>
-2. Install pandas library using the command by running the command in terminal ( pip install pandas )<br/>
-3. Jupyter notebook should be install correctly<br/>
+2. Install pandas library using the command by running the command in terminal
+  <br/>
+ ```bash
+  pip install pandas
+  ```
+  <br/>
+3. Jupyter notebook should be install correctly
+  <br/>
+  ```bash
+  pip install jupyter
+  ```
+  <br/>
 4. And You are ready to run the code
 </p>
