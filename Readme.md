@@ -7,7 +7,8 @@
 2. Install pandas library using the command by running the command in terminal
   <br>
 </p>
-```bash
+```
+bash
 pip install pandas
 ```
 <p>
