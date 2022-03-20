@@ -6,15 +6,19 @@
 1. Python should be installed correctly (Python 3.5+ recommended)<br/>
 2. Install pandas library using the command by running the command in terminal
   <br>
+</p>
 ```bash
 pip install pandas
 ```
+<p>
   <br>
 3. Jupyter notebook should be install correctly
   <br>
+</p>
   ```bash
   pip install jupyter
   ```
+<p>
   <br>
 4. And You are ready to run the code
 </p>
